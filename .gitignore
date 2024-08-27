@@ -4,3 +4,6 @@
 
 /training/models
 /data
+/scraper/logs
+/scraper/output
+/scraper/temp
