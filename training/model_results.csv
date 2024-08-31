@@ -1,0 +1,4 @@
+Metrics\Model;DecisionTree;RandomForest;Neural Network
+RMSE;8752;6894;6386
+MAE;4148;3123;3226
+MAPE;24.86%;18.09%;18.50%
